@@ -1,0 +1,27 @@
+Valutazione complessiva: 26.5/30
+
+Feedback del docente
+
+Descrizione testuale dei requisiti e operazioni tipiche + Qualità della relazione: 3/3pt
+Motivazione: N/A
+
+Progettazione Concettuale: 5/7.5pt
+Motivazione: Mancanza di generalizzazione significativa (equivalente a due errori)
+
+Ristrutturazione dello schema concettuale: 2/2pt
+Motivazione: N/A
+
+Schema Relazionale: 3/4pt
+Motivazione: presenza di attributi null che non figurano nello schema er ristrutturato.
+
+Implementazione in SQL: 2/2pt
+Motivazione: N/A
+
+Query: 7.5/7.5pt
+Motivazione: N/A
+
+Indici: 2/2pt
+Motivazione: N/A
+
+Accesso a DB da SQL: 2/2pt
+Motivazione: /
